@@ -4,4 +4,4 @@
 
 Para ejecutar algun tipo de sistema debes poner:
 
-''' npm install react '''
+``` npm install react ```
